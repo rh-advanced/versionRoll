@@ -1,0 +1,81 @@
+*
+{
+
+}
+
+body
+{
+    margin: 0;
+}
+
+.header
+{
+    background-color: cornsilk;
+    height: 150px;
+
+}
+
+.container
+{
+    background: aquamarine repeat;
+    position: absolute;
+    top: 150px;
+    bottom: 0;
+    width:100%;
+}
+
+.versionlog
+{
+    background-color: red;
+    margin: 20px auto;
+    width: 600px;
+    border-radius: 3px ;
+}
+
+.top
+{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 12px;
+    width: 100%;
+
+}
+.bottom
+{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 12px;
+    padding-bottom: 5px;
+}
+.content
+{
+
+    padding-top: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: auto;
+    text-align: left;
+}
+.date
+{
+    float: left;
+    margin-right: 10px;
+    width: auto;
+
+
+}
+
+.circle
+{
+    float: left;
+    margin-right: 10px;
+    width: auto;
+}
+
+.user
+{
+    float: left;
+}
+
+
+
